@@ -255,13 +255,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Support
 
 For issues and questions, please open an issue on the GitHub repository.
-
-## 🙏 Acknowledgments
-
-- Google Gemini API for AI capabilities
-- Django community for the excellent framework
-- Pandas team for data manipulation tools
-
----
-
-**Made with ❤️ using Django and Google Gemini**
